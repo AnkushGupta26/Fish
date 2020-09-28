@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">myapp</string>
+    <string name="add">+</string>
+    <string name="sub">-</string>
+    <string name="div">/</string>
+    <string name="mul">*</string>
+    <string name="firstNo">Enter First Value</string>
+    <string name="secondNo">Enter Second Value</string>
+</resources>
